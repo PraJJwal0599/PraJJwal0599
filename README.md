@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Prajjwal Yadav. I’m a Master’s student in Data Science with a keen eye for details and a passion for machine learning, data engineering and analysis. <br>When I’m not diving into data projects or mastering algorithms, you’ll find me conquering virtual worlds from AAA tiles to EA 25 or unwinding with some great music, series and anime.<br>This is where work meets play and curiosity never quits.
+I’m Prajjwal Yadav. I’m a Master’s student in Data Science with a keen eye for details and a passion for machine learning, data engineering and analysis.When I’m not diving into data projects or mastering algorithms, you’ll find me conquering virtual worlds from AAA tiles to EA 25 or unwinding with some great music, series and anime.<br>This is where work meets play and curiosity never quits.
 
 
 ## 🌐 Socials:
@@ -14,5 +14,3 @@ I’m Prajjwal Yadav. I’m a Master’s student in Data Science with a keen eye
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PraJJwal0599&icon=8&color=11)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
