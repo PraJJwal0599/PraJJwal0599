@@ -1,11 +1,11 @@
-# 💫 About Me
+# About Me
 I’m Prajjwal Yadav. I’m a Master’s student in Data Science with a keen eye for details and a passion for machine learning, data engineering and analysis. When I’m not diving into data projects or mastering algorithms, you’ll find me conquering virtual worlds from AAA tiles to EA 25 or unwinding with some great music, series and anime.<br>This is where work meets play and curiosity never quits.
 
 
-# 🌐 Socials
+# Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prajjwal-yadav-05p1999y5?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BraI6TSnmRum8HfPD78%2F1NA%3D%3D) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@prajjwalyadav0599) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prajjwalyadav0599@gmail.com) 
 
-# 💻 Tech Stack
+# Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%23025E8C.svg?style=flat&logo=sqlite&logoColor=white)
 <br>
@@ -27,7 +27,7 @@ I’m Prajjwal Yadav. I’m a Master’s student in Data Science with a keen eye
 <br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
-# 📊 GitHub Stats
+# GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=PraJJwal0599&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PraJJwal0599&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraJJwal0599&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
