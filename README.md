@@ -27,10 +27,5 @@ I’m Prajjwal Yadav. I’m a Master’s student in Data Science with a keen eye
 <br>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
 
-# GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=PraJJwal0599&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=PraJJwal0599&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PraJJwal0599&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=PraJJwal0599&icon=8&color=11)](https://visitcount.itsvg.in)
