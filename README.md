@@ -1,5 +1,5 @@
 # About Me
-I’m Prajjwal Yadav. I’m a Master’s student in Data Science with a keen eye for details and a passion for machine learning, data engineering and analysis. When I’m not diving into data projects or mastering algorithms, you’ll find me conquering virtual worlds from AAA tiles to EA 25 or unwinding with some great music, series and anime.<br>This is where work meets play and curiosity never quits.
+I'm a Data Science MSc graduate and Machine Learning Engineer who loves turning raw data into stories that drive real decisions. Whether I'm crafting RAG systems, tuning models that (mostly) behave, or untangling complex pipelines, I thrive on connecting dots between tech, problems, and people.Curiosity is my fuel — no dataset is too messy, no rabbit hole too deep if it uncovers something new. When the code compiles, you'll find me conquering virtual worlds in AAA titles or EA FC, blasting music, or binging anime/series to recharge.Work meets play here. Lifelong learning never stops.
 
 
 # Socials
