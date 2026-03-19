@@ -1,5 +1,5 @@
 # About Me
-I'm a Data Science MSc graduate and Machine Learning Engineer who loves turning raw data into stories that drive real decisions. Whether I'm crafting RAG systems, tuning models that (mostly) behave, or untangling complex pipelines, I thrive on connecting dots between tech, problems, and people. <br>Curiosity is my fuel — no dataset is too messy, no rabbit hole too deep if it uncovers something new. When the code compiles, you'll find me conquering virtual worlds in AAA titles or EA FC, blasting music, or binging anime/series to recharge.Work meets play here. Lifelong learning never stops.
+I'm a Data Science MSc graduate and Machine Learning Engineer who loves turning raw data into stories that drive real decisions. Whether I'm crafting RAG systems, tuning models that (mostly) behave, or untangling complex pipelines, I thrive on connecting dots between tech, problems, and people. <br>Curiosity is my fuel no dataset is too messy, no rabbit hole too deep if it uncovers something new. When the code compiles, you'll find me conquering virtual worlds in AAA titles or EA FC, blasting music, or binging anime/series to recharge.Work meets play here. Lifelong learning never stops.
 
 
 # Socials
