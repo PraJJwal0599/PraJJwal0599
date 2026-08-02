@@ -1,10 +1,10 @@
-# Hi, I'm Prajjwal 👋
+<h1 align="center">Hi, I'm Prajjwal 👋</h1>
 
-### Machine Learning Engineer · Data Science MSc
+---
 
-I turn messy data into stories that drive real decisions — building **RAG systems**, training models that (mostly) behave, and untangling complex pipelines. Endlessly curious: no dataset is too messy, no rabbit hole too deep if it uncovers something new.
+I'm building **AI for healthcare** from the ground up as a founding engineer — which means I wear a lot of hats: ML engineer one hour, software engineer the next, AI/GenAI engineer after that. Day to day I turn messy data into **RAG systems**, models that (mostly) behave, and pipelines that hold together.
 
-Off the clock, you'll find me deep in AAA titles or EA FC, music turned up, or bingeing anime and series to recharge. Work meets play — lifelong learning never stops.
+Curious by default: no dataset is too messy, no rabbit hole too deep if it uncovers something new. Off the clock — AAA titles & EA FC, music turned up, and anime/series to recharge. Lifelong learning never stops.
 
 ---
 
@@ -20,9 +20,7 @@ Off the clock, you'll find me deep in AAA titles or EA FC, music turned up, or b
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-%23025E8C.svg?style=flat&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white)
 
 **ML & Deep Learning**  
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
@@ -30,6 +28,10 @@ Off the clock, you'll find me deep in AAA titles or EA FC, music turned up, or b
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-%230194E2.svg?style=flat&logo=mlflow&logoColor=white)
+
+**GenAI & LLM**  
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
 
 **Data & Big Data**  
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
@@ -46,7 +48,11 @@ Off the clock, you'll find me deep in AAA titles or EA FC, music turned up, or b
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-%23FF3621.svg?style=flat&logo=databricks&logoColor=white)
 
-**Visualization**  
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=Tableau&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)
+---
+
+<!-- WAKATIME:START -->
+<!-- WAKATIME:END -->
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=PraJJwal0599&label=Profile%20views&color=36BCF7&style=flat" alt="profile views" />
+</p>
