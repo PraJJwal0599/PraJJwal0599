@@ -2,7 +2,7 @@
 
 ---
 
-I'm building **AI for healthcare** from the ground up as a founding engineer — which means I wear a lot of hats: ML engineer one hour, software engineer the next, AI/GenAI engineer after that. Day to day I turn messy data into **RAG systems**, models that (mostly) behave, and pipelines that hold together.
+I'm building **AI for healthcare** from the ground up as a founding engineer - which means I wear a lot of hats: ML engineer one hour, software engineer the next, AI/GenAI engineer after that. Day to day I turn messy data into **RAG systems**, models that (mostly) behave, and pipelines that hold together.
 
 Curious by default: no dataset is too messy, no rabbit hole too deep if it uncovers something new. Off the clock - AAA titles & EA FC, music turned up, and anime/series to recharge. Lifelong learning never stops.
 
