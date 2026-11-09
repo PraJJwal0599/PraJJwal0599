@@ -52,7 +52,3 @@ Curious by default: no dataset is too messy, no rabbit hole too deep if it uncov
 
 <!-- WAKATIME:START -->
 <!-- WAKATIME:END -->
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=PraJJwal0599&label=Profile%20views&color=36BCF7&style=flat" alt="profile views" />
-</p>
